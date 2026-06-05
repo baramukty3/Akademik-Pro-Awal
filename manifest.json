@@ -1,0 +1,24 @@
+{
+  "name": "AkademikPro",
+  "short_name": "AkademikPro",
+  "description": "Pendampingan skripsi, analisis data, dan artikel ilmiah",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080f1c",
+  "theme_color": "#c9a84c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
